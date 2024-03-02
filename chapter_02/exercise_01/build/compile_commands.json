@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/rknot/repo/PPP2/chapter_02/exercise_01/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++20 @CMakeFiles/main.dir/main.cpp.o.modmap -o CMakeFiles/main.dir/main.cpp.o -c /home/rknot/repo/PPP2/chapter_02/exercise_01/main.cpp",
+  "file": "/home/rknot/repo/PPP2/chapter_02/exercise_01/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+}
+]

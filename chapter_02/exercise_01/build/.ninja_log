@@ -1,0 +1,7 @@
+# ninja log v5
+1	86	1709369496042060297	CMakeFiles/main.dir/main.cpp.o.ddi	ca401e8416b46fe7
+86	100	1709369496062060595	CMakeFiles/main.dir/CXX.dd	82e7553f5c914d27
+86	100	1709369496062060595	/home/rknot/repo/PPP2/chapter_02/exercise_01/build/CMakeFiles/main.dir/CXXModules.json	82e7553f5c914d27
+86	100	1709369496062060595	CMakeFiles/main.dir/main.cpp.o.modmap	82e7553f5c914d27
+100	1393	1709369497345412975	CMakeFiles/main.dir/main.cpp.o	45f5d7817ff19dd8
+1394	1495	1709369497452081226	main	86fa3e9ff747f288

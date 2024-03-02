@@ -1,0 +1,3 @@
+/home/rknot/repo/PPP2/chapter_02/exercise_01/build/CMakeFiles/main.dir
+/home/rknot/repo/PPP2/chapter_02/exercise_01/build/CMakeFiles/edit_cache.dir
+/home/rknot/repo/PPP2/chapter_02/exercise_01/build/CMakeFiles/rebuild_cache.dir

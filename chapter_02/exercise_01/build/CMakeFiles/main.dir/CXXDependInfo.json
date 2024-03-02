@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/rknot/repo/PPP2/chapter_02/exercise_01/build",
+	"dir-cur-src" : "/home/rknot/repo/PPP2/chapter_02/exercise_01",
+	"dir-top-bld" : "/home/rknot/repo/PPP2/chapter_02/exercise_01/build",
+	"dir-top-src" : "/home/rknot/repo/PPP2/chapter_02/exercise_01",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/rknot/repo/PPP2/chapter_02/exercise_01/build/CMakeFiles/main.dir"
+}
